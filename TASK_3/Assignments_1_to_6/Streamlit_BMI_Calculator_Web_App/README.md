@@ -48,5 +48,7 @@ BMI Classification Chart:
 - **Formatted Output:** Displays results clearly and provides a reference BMI chart.
 - **Streamlit Integration:** Provides an interactive UI with buttons and input fields.
 
+## Deployment Url : https://bmi-calculator-app-401.streamlit.app/
+
 🎉 A great project to practice working with numerical calculations and user interaction in Python using Streamlit!
 
