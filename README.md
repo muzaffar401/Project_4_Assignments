@@ -48,7 +48,7 @@ Each section under `homework_projects` explores essential Python topics:
 ## ⚡ How to Run the Projects
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/muzaffar401/Project_4_Assignments.git
    cd your-repo
    ```
 2. Create a virtual environment (optional but recommended):
